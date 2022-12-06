@@ -13,6 +13,8 @@
 # MAGIC * Name: **Data Engineer Learning Path**
 # MAGIC * Version:  **1.0.2**
 # MAGIC * Built On: **Nov 4, 2022 at 22:07:03 UTC**
+# MAGIC 
+# MAGIC test fede
 
 # COMMAND ----------
 
