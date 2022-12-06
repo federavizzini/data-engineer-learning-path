@@ -9,7 +9,7 @@
 
 # MAGIC %md
 # MAGIC 
-# MAGIC # Getting Started with the Databricks Platform
+# MAGIC # Getting Started with the Databricks Platform3
 # MAGIC 
 # MAGIC This notebook provides a hands-on review of some of the basic functionality of the Databricks Data Science and Engineering Workspace.
 # MAGIC 
